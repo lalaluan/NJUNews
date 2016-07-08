@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Property List.plist
+   SlideMenuControllerSwift
+
+   Created by lalalu on 16/6/6.
+   Copyright (c) 2016年 Yuji Hato. All rights reserved.
+-->
+<plist version="1.0">
+    <array>
+    <string>image1</string>
+    <string>image2</string>
+    <string>image3</string>
+    <string>image4</string>
+    <string>image5</string>
+    <string>image6</string>
+    <string>image7</string>
+    <string>image8</string>
+    <string>image9</string>
+    <string>image10</string>
+    <string>image11</string>
+    <string>image12</string>
+    <string>image13</string>
+    <string>image14</string>
+    <string>image15</string>
+</array>
+</plist>

@@ -1,0 +1,84 @@
+body { 
+    font: 12px/1.5  arial, tahoma,sans-serif;
+    color: #411a42;
+}
+
+h1,h2,h3,h4,h5,h6,ul {
+    margin: 0;display: inline;padding: 0;
+    font-family: "Microsoft Yahei",sans-serif;
+    font-weight: normal;
+}
+
+#top-nav a {
+    font-family: "Microsoft Yahei";color:rgb(92,23,106);text-decoration:none;
+}
+    #top-nav a:hover {
+        color:rgb(255,253,250);text-decoration:none;
+    }
+
+#main-nav ul a{
+    font-family: "Microsoft Yahei", sans-serif;color:rgb(59,43,61);text-decoration:none;
+    font-size: 14px;line-height: 69px;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.25);
+}
+    #main-nav ul a:hover{
+        color: rgb(255,255,255);
+    }
+
+
+    #main-nav ul li ul li a{
+        font-family: "宋体";
+        color: #ebdfe8 !important;font-size: 12px;
+    }
+    #main-nav ul li ul li a:hover{
+        color: #fecd4a !important;
+    }
+
+    
+#mod-search-searchword{
+    color:#555;
+}
+
+
+
+#footer span{
+    color: #5f4d60;
+    text-shadow: 1px 1px 0px rgb(255,255,255)
+}
+
+.category-module {
+    list-style: url("../images/li-decorator.png");
+}
+
+.mod-articles-category-title{
+    font-family: "宋体";color: #411a42;text-decoration:none;
+    font-size: 12px;font-weight: normal;
+    /*text-shadow: 0 0px 1px rgb(170,170,170);*/
+}
+
+.mod-articles-category-date{
+    font-family: Tahoma;color: #d36a9f;
+    float: right;
+}
+
+.notice li h4 a{
+	color: #8c2a90;
+	font-family:"Microsoft YaHei";
+	font-size: 14px;
+}
+.notice a h4{
+	color: #E56AC3;
+}
+.notice a{
+	text-decoration:none;
+}
+.notice2 h4 a{
+    color: #d8adda;
+}
+.notice ul {
+	list-style:none;
+}
+
+.notice ul li {
+	list-style:none;
+}

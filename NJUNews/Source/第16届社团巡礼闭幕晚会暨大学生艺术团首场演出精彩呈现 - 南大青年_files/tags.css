@@ -1,0 +1,84 @@
+.btn-toolbar{
+	display:none;
+}
+.tag-category, #main .search{
+	background:rgba(255,255,255,0.7);
+border-bottom: 3px double #eec3ef;
+}
+
+.tag-category h2{
+
+
+}
+
+
+.tag-category li{margin-left: 5px;display: block;background: url("../images/li-decorator.png") no-repeat;background-position: 0px 12px;padding: 6px 0 6px 15px;border-bottom: 1px #c5a0bd dotted;}
+.tag-category li a:hover{
+	color: #df1ea6;
+}
+.tag-category li a{
+	color: #411a42;
+}
+.tag-category li{
+	color: #411a42;
+	text-decoration:none;
+	font-size:12px;
+	font-weight:normal;
+	margin-right:30px;
+}
+
+.tag-category h3{
+	font-size:14px;
+	text-decoration:none;
+	font-weight:normal;
+	font-family: "Microsoft Yahei", sans-serif;
+}
+
+.tag-category h3 a{
+	text-decoration:none;
+}
+.tag-category h2{
+	padding-top:20px;
+	padding-left:20px;
+	display:block;
+}
+.tag-category form{
+	padding-left:20px;
+	padding-top:20px;
+}
+
+.cat-list-date{
+	float:right;
+}
+
+.pagination{
+	display:block;
+	text-align:center;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.pagination li{
+	display:inline;
+	background:none;
+	border-bottom:none;
+	font-weight:bold;
+	text-decoration:none;
+}
+.pagination a{
+	font-weight:normal;
+	text-decoration:none;
+}
+
+
+.content-category table{
+	width:100%;
+	padding-top:40px;
+}
+.content-category table a{
+	text-decoration:none;
+	color:black;
+}
+
+#curve{
+	z-index:100;
+}

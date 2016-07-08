@@ -1,0 +1,27 @@
+div.breadcrumbs {background: rgba(255,255,255,0.4); padding: 0.5em 1em;}
+ul.breadcrumb {}
+ul.breadcrumb li {float: left;}
+ul.breadcrumb li a{color: #411a42; text-decoration: none;}
+ul.breadcrumb li span.divider{margin: 0 0.5em;}
+ul.breadcrumb li span.icon-location{background: url("../images/home.gif");width: 16px;height: 16px;display: block;margin-left: 0; margin-right: 0.5em;}
+ul.breadcrumb li a:hover{color: #df1ea6;}
+
+.item-page{font: 14px;line-height: 2em;margin-top: 0em;background: rgba(255,255,255,0.7);padding: 1.5em 1em 2em 1em; margin-bottom: 1em; text-indent: 2.7em;
+border-bottom: 3px double #eec3ef;}
+.item-page .page-header h2 {display: block; text-align: center;}
+.item-page .page-header h2 a{text-decoration: none;color: #411a42;font-family: "Microsoft Yahei", sans-serif;font-size: 20px;font-weight: bold;}
+.item-page .page-header h2 a:hover{text-decoration: none;color: #df1ea6;}
+
+span.article-info {font-family: "Microsoft Yahei", sans-serif;display: block; text-align: center;margin: 0.5em 1em 2em 0; color: #666;}
+
+.tags {margin-bottom: 3em;}
+.tags span {margin-right: 1em;
+padding: 3px 10px 3px 25px; background: rgba(255,255,255,0.5) url("../images/tag.gif") no-repeat; display: inline-block;
+background-position: 6px 5px;-moz-border-radius: 6px;-webkit-border-radius: 6px;border-radius:6px;}
+.tags span a{color: #411a42; text-decoration: none;}
+.tags span a:hover{color: #df1ea6;}
+
+.page-divider{width: 100%; height: 4px; background: url("../images/divider-bg.png") repeat-x; }
+.item-page {overflow-x: hidden;}
+
+.item-page img {max-width: 677px;}
